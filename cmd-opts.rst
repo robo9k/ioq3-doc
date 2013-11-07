@@ -11,3 +11,11 @@ Command line options
     Example::
 
         ioq3 1.36_GIT_7ae49cc-2013-11-02 client (Nov  3 2013)
+
+
+.. option:: +set <cvar> <value>
+
+    Allows to set a cvar, which will override its value from the default
+    config files.
+    This is also the only way to set cvars with the ``CVAR_INIT`` flag
+    as a user.
