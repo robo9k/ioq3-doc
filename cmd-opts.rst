@@ -15,7 +15,7 @@ Command line options
 
 .. option:: +set <cvar> <value>
 
-    Allows to set a cvar, which will override its value from the default
+    Allows to set a :term:`cvar`, which will override its value from the default
     config files.
     This is also the only way to set cvars with the ``CVAR_INIT`` flag
     as a user.

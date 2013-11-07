@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    cmd-opts
+   glossary
 
 Indices and tables
 ==================
