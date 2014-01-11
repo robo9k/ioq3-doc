@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   cmd-opts
+   command-line-options
    glossary
 
 Indices and tables
