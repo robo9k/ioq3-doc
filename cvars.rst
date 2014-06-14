@@ -2,6 +2,9 @@
 cvars
 =====
 
+
+.. _cvar-vm_game:
+
 vm_game
 =======
 
