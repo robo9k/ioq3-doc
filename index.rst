@@ -12,6 +12,8 @@ Contents:
    :maxdepth: 2
 
    command-line-options
+   cvars
+
    glossary
 
 Indices and tables
