@@ -5,8 +5,8 @@ cvars
 vm_game
 =======
 
-:flags: CVAR_ARCHIVE
-:default: 2
+:flags: ``CVAR_ARCHIVE``
+:default: ``2``
 :type: enum (``vmInterpret_t``)
 
 Determines how the ``game`` module is loaded.
