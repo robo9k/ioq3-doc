@@ -20,8 +20,9 @@ Possible values:
 ``1`` aka ``VMI_BYTECODE``
     Load a QVM file and interpret it.
 
-    This is also the fallback for architectures that do not have a QVM
-    compiler implementation.
+    .. note::
+        This is also the fallback for architectures that do not
+        have a QVM compiler implementation.
 
 ``2`` aka ``VMI_COMPILED``
     Load a QVM file and compile it to native machine instructions.
